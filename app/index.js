@@ -1,5 +1,5 @@
-import { View,Text } from "react-native";
-import React, { useEffect } from "react";
+import { View } from "react-native";
+import React from "react";
 import home from "../styles/home";
 import Head from "../components/Header";
 import Search_bar from "../components/Search_bar";
